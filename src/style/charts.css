@@ -1,0 +1,8 @@
+.sales_table{
+    display: flex;
+    flex-direction: row;
+    background: #ffff;
+    padding: 20px;
+    border-radius: 10px;
+    /* justify-content: space-between; */
+}

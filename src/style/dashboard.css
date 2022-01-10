@@ -1,0 +1,20 @@
+.grid_size{
+    padding-top: 20px;
+    padding-left: 260px;
+    /* background: #f5f5f5; */
+    padding-bottom: 30px;
+    padding-right: 25px;
+}
+.css-1v5u2yv{
+  padding: 5px !important;
+}
+.logo_image{
+  background-image: '../assets/images/blaze-logo.png';
+  /* background: forestgreen;
+  width: 50%; */
+}
+@media only screen and (max-width: 600px) {
+    .grid_size{
+      padding-left: 10px;
+    }
+  }

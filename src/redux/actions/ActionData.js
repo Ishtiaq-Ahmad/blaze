@@ -6,3 +6,9 @@ export const setProducts  = (products) =>{
         payload: {products}
     }
 }
+export const handleOpenMenu = () => {
+    return {
+        type: ActionTypes.GRID_OPEN_CLOSE,
+        
+    }
+}
